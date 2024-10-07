@@ -1,0 +1,146 @@
+/* Style the settings page container */
+.floating-cta-button-settings {
+    background-color: #fff;
+    padding: 30px 45px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the section titles */
+.floating-cta-button-settings h1 {
+    font-size: 3em;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.floating-cta-button-settings h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+/* Style the form labels */
+.floating-cta-button-settings table.form-table th {
+    font-weight: bold;
+    color: #0073aa;
+}
+
+/* Style the input fields */
+.floating-cta-button-settings table.form-table input[type="text"],
+.floating-cta-button-settings table.form-table input[type="range"],
+.floating-cta-button-settings table.form-table input[type="number"],
+.floating-cta-button-settings table.form-table select {
+    width: 400px;
+    padding: 8px;
+    font-size: 1em;
+    /* font-weight: 500; */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.floating-cta-button-settings table.form-table input,
+.floating-cta-button-settings table.form-table select {
+    margin-right: 30px;
+}
+
+.floating-cta-button-settings table.form-table input[type="color"] {
+    width: 100px;
+}
+
+/* Hide arrows in number inputs for WebKit browsers (Chrome, Safari) */
+/* input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+} */
+
+/* Hide arrows in number inputs for Firefox */
+/* input[type="number"] {
+    -moz-appearance: textfield;
+} */
+
+
+#floating_cta_button_pages {
+    height: 75px;
+}
+
+/* Helper styles */
+.floating-cta-button-settings .helper {
+    font-weight: 500;
+    color: green;
+
+}
+
+/* Style the submit button */
+.floating-cta-button-settings .button-primary {
+    background-color: #F8E300;
+    border-color: #F8E300;
+    color: #000;
+    box-shadow: none;
+    text-shadow: none;
+    padding: 10px 20px;
+}
+
+.floating-cta-button-settings .button-primary:hover {
+    background-color: #000;
+    border-color: #fff;
+}
+
+/* Admin notices styles */
+
+.notice-success {
+    background: green;
+    border-left-color: green;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.notice-error {
+    background: red;
+    border-left-color: red;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.notice-dismiss {
+    top: 9px;
+}
+
+.notice-dismiss:before {
+    color: white !important ;
+}
+
+/* Table styles */
+
+.form-table tr {
+    border-bottom: 1px solid #f0f0f0;
+    height: 90px;
+    display: flex;
+    align-items: center;
+    padding: 10px 15px;
+}
+
+.form-table tr:hover {
+    background-color: #F6F7F7;
+}
+
+.form-table tr:first-child {
+    border-top: 1px solid #E7E7E7;
+    margin-top: 20px;
+}
+.form-table tr:last-child {
+    margin-bottom: 20px;
+}
+
+.form-table td {
+    margin-bottom: 0px !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
