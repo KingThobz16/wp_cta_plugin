@@ -39,8 +39,7 @@
    
    
 
-3. **Frontend Display**  
-  Yes! You can modify colors, fonts, sizes, and layouts from the CTA settings.
+3. **Frontend Display**      
    ![Screenshot from 2024-10-07 12-44-21](https://github.com/user-attachments/assets/f5b3474e-e5d3-46f6-8671-231d990a7ef3)
    ![Screenshot from 2024-10-07 12-44-54](https://github.com/user-attachments/assets/7db09c61-6040-4dc6-8366-2fd1f6af9540)
    ![Screenshot from 2024-10-07 12-45-26](https://github.com/user-attachments/assets/f42accd1-ae6b-403d-8aee-9832c6ad9d39)
