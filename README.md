@@ -31,8 +31,8 @@
 ## Screenshots
 
 1. **Admin Panel**  
-   ![Admin Panel Screenshot](https://example.com/screenshot1.png)
+   ![Admin Panel Screenshot](https://github.com/user-attachments/assets/1fb39d15-757f-4ed3-a08e-1329efe73a52)
 
-2. **Frontend Display**  
+3. **Frontend Display**  
    ![Example Frontend Display](https://example.com/screenshot2.png)
   Yes! You can modify colors, fonts, sizes, and layouts from the CTA settings.
