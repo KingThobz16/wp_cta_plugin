@@ -6,7 +6,7 @@
 
 - **Customizable CTA Designs**: Choose from various styling options, colors, and fonts.
 - **Responsive**: Buttons are mobile-friendly and look good on all devices.
-- **Shortcode Support**: Easily add the CTA button to any post or page.
+- **Plug and play**: Easily add the CTA button to any post or page.
 
 ## Installation
 
